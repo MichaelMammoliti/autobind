@@ -1,5 +1,5 @@
 # autobind
-autobind utility for React.
+This utility binds a context all class' methods.
 
 ## Usage
 ```
