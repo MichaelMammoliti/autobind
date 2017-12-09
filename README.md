@@ -1,4 +1,4 @@
-# react-autobind
+# autobind
 autobind utility for React.
 
 ## Usage
