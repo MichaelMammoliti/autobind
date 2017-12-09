@@ -3,7 +3,7 @@ autobind utility for React.
 
 ## Usage
 ```
-import autobind from 'autobind'
+import autobind from 'autobind';
 
 class Hello extends React.Component {
   constructor(props) {
