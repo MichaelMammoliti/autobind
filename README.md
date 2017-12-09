@@ -1,5 +1,5 @@
 # autobind
-This utility binds a context all class' methods.
+This utility binds a context to all class' methods.
 
 ## Usage
 ```
